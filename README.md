@@ -1,1 +1,1 @@
-# Gtihub-Syntax-
+# Github-Syntax
