@@ -1,3 +1,3 @@
 # Github-Syntax
 
-Test
+| cd | Change directory |
